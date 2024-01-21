@@ -1,24 +1,56 @@
-# Computational-Methods-IEEE754-COMP2
+# Computational-Methods-Algorithms
 
-Simple project on IEEE 754 &amp; 2's complement
+## Overview
 
-Estudo comparativo de métodos de zero reais de funções reais.
+Simple project on IEEE 754 & 2's complement
 
-Desenvolva um programa que aplique os seguintes métodos computacionais para zero reais de funções reais:
+Comparative study of real zero methods for real functions.
 
-M1- Bissecção;
-M2- Posição Falsa;
-M3 - Nilton-
-M4 - Secante
+Development of a program that applies the following computational methods for real zero of real functions:
 
-O programa deverá calcular os zeros para as seguintes funções, intervalos e precisão:
+M1- Bisection;
+M2- False Position;
+M3 - Newton;
+M4 - Secant;
 
-F1: 7x3 - x2 - 28x + 4 para o intervalo [0,1] e precisões  ε = ε1 = 10-5 e ε2 = 10-6.
+The program should calculate the zeros for the following functions, intervals, and precision:
 
-F2: 6x4 - 7x3 - 33x2 + 35x + 15, para os intervalos [-3,-2], [-1,0], [1,2] e [2,3] para as precisões s  ε = ε1 = 10-7 e ε2 = 10-7.
+**F1:** 7x^3 - x^2 - 28x + 4 for the interval [0, 1] and precisions ε = ε1 = 10^-5 and ε2 = 10^-6.
 
-Obs: Ao todo, para cada método, serão 5 tabelas, uma para cada função / intervalo. Cada tabela deve incluir:
+**F2:** 6x^4 - 7x^3 - 33x^2 + 35x + 15, for the intervals [-3, -2], [-1, 0], [1, 2], and [2, 3] for precisions ε = ε1 = 10^-7 and ε2 = 10^-7.
 
-k, ak, bk, xk, f(ak), f(bk), f(xk) e bk - ak.
+Note: In total, for each method, there will be 5 tables, one for each function/interval. Each table should include:
 
-Ao final, imprimir o valor x escolhido.
+k, ak, bk, xk, f(ak), f(bk), f(xk), and bk - ak.
+
+Finally, print the chosen x value.
+
+## Technologies Used
+
+The technologies used to develop the project are very simple.
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Java" height="38" width="100" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</div>
+
+## Contact
+<strong> Project Developer Members: </strong> We are Computer Science students at the Federal University of Mato Grosso - Class of 2022.
+
+| Anthony Ricardo Rodrigues Rezende | 
+| --- |
+| <img src="./images/anthony.jpeg" alt="Anthony's Photo" width="100"/> |
+
+- **Email:** anthony_rodriguespereira@outlook.com
+- **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)
+
+
+
+## Acknowledgments
+Useful resources that we would like to give credit for.
+
+- IC UFMT [https://www.ic.ufmt.br/](https://www.ic.ufmt.br/)
+- Java POO [https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/](https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/)
+  
+##
+
+
