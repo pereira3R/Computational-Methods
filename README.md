@@ -35,7 +35,7 @@ The technologies used to develop the project are very simple.
 </div>
 
 ## Contact
-<strong> Project Developer Members: </strong> We are Computer Science students at the Federal University of Mato Grosso - Class of 2022.
+<strong> Project Developer: </strong> I am student of the Federal University of Mato Grosso - Class of 2022.
 
 | Anthony Ricardo Rodrigues Rezende | 
 | --- |
@@ -43,8 +43,6 @@ The technologies used to develop the project are very simple.
 
 - **Email:** anthony_rodriguespereira@outlook.com
 - **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)
-
-
 
 ## Acknowledgments
 Useful resources that we would like to give credit for.
