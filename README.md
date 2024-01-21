@@ -31,6 +31,7 @@ The technologies used to develop the project are very simple.
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="38" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Tkinter" height="38" width="100" src="https://img.shields.io/badge/Tkinter-4B8BBE?style=for-the-badge&logo=tkinter&logoColor=white">
 </div>
 
 ## Contact
