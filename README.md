@@ -48,7 +48,7 @@ The technologies used to develop the project are very simple.
 Useful resources that we would like to give credit for.
 
 - IC UFMT [https://www.ic.ufmt.br/](https://www.ic.ufmt.br/)
-- Java POO [https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/](https://sites.google.com/ic.ufmt.br/algoritmos-3-co-2023-1/)
+- Cálculo Numérico - Matemática Universitária [https://www.youtube.com/watch?v=82sOSjmw_aM&list=PLJVeWGwSovVmGe8oZuhBClC-rIYTH9mAZ](https://www.youtube.com/watch?v=82sOSjmw_aM&list=PLJVeWGwSovVmGe8oZuhBClC-rIYTH9mAZ)
   
 ##
 
