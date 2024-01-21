@@ -2,8 +2,8 @@
 
 ## Overview
 
-- Simple project on IEEE 754 & 2's complement => main.py
-- Comparative study of real zero methods for real functions. => ./Zero_Functions
+- Simple project on IEEE 754 & 2's complement => <strong> main.py </strong>
+- Comparative study of real zero methods for real functions. => <strong> ./Zero_Functions </strong> 
 
 Development of a program that applies the following computational methods for real zero of real functions:
 
