@@ -21,7 +21,7 @@ The program should calculate the zeros for the following functions, intervals, a
 
 Note: In total, for each method, there will be 5 tables, one for each function/interval. Each table should include:
 
-k, ak, bk, xk, f(ak), f(bk), f(xk), and bk - ak.
+- k, ak, bk, xk, f(ak), f(bk), f(xk), and bk - ak.
 
 Finally, print the chosen x value.
 
