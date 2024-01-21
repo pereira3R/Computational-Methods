@@ -8,16 +8,16 @@ Comparative study of real zero methods for real functions.
 
 Development of a program that applies the following computational methods for real zero of real functions:
 
-M1- Bisection;
-M2- False Position;
-M3 - Newton;
-M4 - Secant;
+- M1- Bisection;
+- M2- False Position;
+- M3 - Newton;
+- M4 - Secant;
 
 The program should calculate the zeros for the following functions, intervals, and precision:
 
-**F1:** 7x^3 - x^2 - 28x + 4 for the interval [0, 1] and precisions ε = ε1 = 10^-5 and ε2 = 10^-6.
+- **F1:** 7x^3 - x^2 - 28x + 4 for the interval [0, 1] and precisions ε = ε1 = 10^-5 and ε2 = 10^-6.
 
-**F2:** 6x^4 - 7x^3 - 33x^2 + 35x + 15, for the intervals [-3, -2], [-1, 0], [1, 2], and [2, 3] for precisions ε = ε1 = 10^-7 and ε2 = 10^-7.
+- **F2:** 6x^4 - 7x^3 - 33x^2 + 35x + 15, for the intervals [-3, -2], [-1, 0], [1, 2], and [2, 3] for precisions ε = ε1 = 10^-7 and ε2 = 10^-7.
 
 Note: In total, for each method, there will be 5 tables, one for each function/interval. Each table should include:
 
